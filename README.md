@@ -1,4 +1,4 @@
-# aptos-frens-NFT
+# Aptos-frens-NFT
 
 The Module to deploy several Collections under one main Collection of 3333 Aptos Frens NFT.
 
